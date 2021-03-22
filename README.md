@@ -1,7 +1,7 @@
 # ProjectGamePesawatTempur
 Making a fighter airplane game in Greenfoot
 
-Nama Anggota Kelompok 2:
+ Nama Anggota Kelompok 2 :
 
 1. Titis Cahaya P (33)
 
