@@ -3,7 +3,7 @@ Making a fighter airplane game in Greenfoot
 
  Nama Anggota Kelompok 2 :
 
-1. Titis Cahaya P (33)
+1. Titis Cahaya Pertiwi (33)
 
 2. Mar'atuz Zainiyah (16)
 
