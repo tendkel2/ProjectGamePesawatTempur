@@ -1,12 +1,12 @@
 # ProjectGamePesawatTempur
 Making a fighter airplane game in Greenfoot
 
-Anggota :
+Nama Anggota Kelompok 2:
 
-1. TITIS CAHAYA PERTIWI (33)
+1. Titis Cahaya P (33)
 
-2. MAR'ATUZ ZAINIYAH (16)
+2. Mar'atuz Zainiyah (16)
 
-3. SITI MAULIDIYAH EVIANA (32)
+3. Siti Maulidiyah E (32)
 
-4. AHMAD DANIL BACHTIAR (02)
+4. Ahmad Danil Bachtiar (02)
