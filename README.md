@@ -20,7 +20,7 @@ Game pesawat tempur merupakan permainan pertempuran di udara untuk melawan musuh
 # Tools
 • Greenfoot
 
-# Licence
-Copyright (c) 2021 Titis Cahaya P
+
+
 
 
